@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "chatman-executor",
+    "name": "chatman",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "yr6ap6sgtc",
+    "module": "bot"
+  }
+}
